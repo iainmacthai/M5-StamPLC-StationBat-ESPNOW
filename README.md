@@ -58,11 +58,12 @@ Provides user interface with three buttons
 
 
 ******************************************************************************
-# IDE Version
-## Arduino IDE Setup (IDE Version : 2.3.6)
-### ESP32 Boards Manager Version By Espressif Systems : 3.3.0
-### M5Stack By M5 Stack Official : 3.2.2
+## IDE Version
+#### Arduino IDE Setup (IDE Version : 2.3.6)
+## Boards Version
+#### ESP32 Boards Manager Version By Espressif Systems : 3.3.0
 #### M5Stack By M5 Stack Official : 3.2.2
+## Library Version
 ******************************************************************************
 ## To-Do
 - [ ] Download Instructions
