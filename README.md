@@ -64,13 +64,18 @@ Provides user interface with three buttons
 #### ESP32 Boards Manager Version By Espressif Systems : 3.3.0
 #### M5Stack By M5 Stack Official : 3.2.2
 ## Library Version
+#### M5StamPLC By M5Stack : 1.1.0
+#### M5Unified By M5Stack : 0.2.7
+#### Adafruit QMC5883P Library By Adafruit : 1.0.1
+#### FastLED By Daniel Garcia : 3.10.2
 ******************************************************************************
 ## To-Do
-- [ ] Download Instructions
-- [ ] Repository Folder Structure
-- [x] IDE Version & Configuration Settings
-- [x] SLS Version & Configuration Settings
-- [ ] Required Libraries & Boards Manager Versions
-- [ ] LVGL Conf file
+- [ ] Blah Blah Blah
+- [ ] Blah Blah Blah
+- [ ] Blah Blah Blah
+- [ ] Blah Blah Blah
+- [ ] Blah Blah Blah
+- [x] Blah Blah Blah
+- [x] Blah Blah Blah
 - [ ] Images
 - [ ] AOB
