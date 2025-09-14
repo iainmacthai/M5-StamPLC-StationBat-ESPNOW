@@ -30,7 +30,7 @@ Serves as control interface with display
 
 ### Program Summary:
 
-M5Stamp-Relay-ESPNOW.ino (StamPLC):
+#### M5Stamp-Relay-ESPNOW.ino (StamPLC):
 
 Acts as ESP-NOW receiver for relay control commands
 
@@ -42,7 +42,7 @@ Displays relay status on screen with custom UI
 
 Sends state updates back to controller
 
-M5StationBat-Relay-ESPNOW.ino (Station Bat):
+#### M5StationBat-Relay-ESPNOW.ino (Station Bat):
 
 Acts as ESP-NOW controller and sensor hub
 
